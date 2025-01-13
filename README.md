@@ -1,6 +1,6 @@
 # Bright Data 的中国代理
 
-[![促销](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://bright.cn/locations/cn)
+[![Promo](https://github.com/bright-cn/Awesome-Web-Scraping/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://bright.cn) 
 
 ## 概览
 通过 Bright Data 的[中国代理](https://bright.cn/locations/cn)体验无缝抓取，精准定位，无与伦比的稳定性和快速响应时间。开始抓取中国的网站，不再被封锁。

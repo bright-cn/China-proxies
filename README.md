@@ -53,6 +53,11 @@
 - [**上海代理**](https://bright.cn/locations/cn/shanghai)
 - [**云南代理**](https://bright.cn/locations/cn/yunnan)
 - [**湖南代理**](https://bright.cn/locations/cn/hunan)
+- [**国内代理**](https://bright.cn/locations/cn/domestic)
+- [**广东代理**](https://bright.cn/locations/cn/guangdong)
+- [**贵州代理**](https://bright.cn/locations/cn/guizhou)
+- [**澳门代理**](https://bright.cn/locations/cn/mo)
+- [**成都代理**](https://bright.cn/locations/cn/chengdu)
 
 注册并获得首存高达 $500 的一比一匹配奖励！
 
